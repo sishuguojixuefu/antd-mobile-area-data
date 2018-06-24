@@ -1,0 +1,26 @@
+{
+  "name": "antd-mobile-area-data",
+  "version": "0.1.0",
+  "description": "area data for antd-mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngjuning/antd-mobile-area-data.git"
+  },
+  "keywords": [
+    "antd",
+    "react-native",
+    "chinese",
+    "area",
+    "react"
+  ],
+  "author": "youngjuning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youngjuning/antd-mobile-area-data/issues"
+  },
+  "homepage": "https://github.com/youngjuning/antd-mobile-area-data#readme"
+}
