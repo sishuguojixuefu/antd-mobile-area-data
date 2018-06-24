@@ -1,6 +1,6 @@
 {
   "name": "antd-mobile-area-data",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "area data for antd-mobile",
   "main": "index.js",
   "scripts": {
