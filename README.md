@@ -28,3 +28,7 @@ function handleData(datas) {
   })
 }
 ```
+
+## 数据来源
+
+感谢 https://github.com/modood/Administrative-divisions-of-China
